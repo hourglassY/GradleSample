@@ -1,1 +1,0 @@
-/Users/zhiyunliu/Documents/Android/path/GradleSample/BuildSrc/buildSrc/build/classes/kotlin/main/com/build/src/example/Deps.class:/Users/zhiyunliu/Documents/Android/path/GradleSample/BuildSrc/buildSrc/build/classes/kotlin/main/com/build/src/example/Versions.class
